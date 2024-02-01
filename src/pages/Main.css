@@ -1,0 +1,116 @@
+.growtika-ngocbxiaro0-unsplash-icon {
+  width: 120.33rem;
+  position: relative;
+  height: 67.66rem;
+  object-fit: cover;
+  display: none;
+}
+.services-were-offering {
+  margin: 0;
+  width: 57.94rem;
+  position: relative;
+  font-size: inherit;
+  font-weight: 700;
+  font-family: inherit;
+  display: inline-block;
+}
+.divider {
+  width: 11.25rem;
+  position: absolute;
+  margin: 0 !important;
+  right: 23.31rem;
+  bottom: -2.75rem;
+  border-radius: 50%;
+  background-color: var(--color-springgreen);
+  filter: blur(400px);
+  height: 11.5rem;
+  z-index: 3;
+}
+.button,
+.input {
+  flex-direction: row;
+  align-items: flex-start;
+}
+.button {
+  width: 57.94rem;
+  height: 6.06rem;
+  display: flex;
+  justify-content: flex-start;
+  position: relative;
+}
+.input {
+  width: 81.25rem;
+  height: 7rem;
+  padding: 0 23.31rem 0 0;
+  box-sizing: border-box;
+}
+.icon,
+.input,
+.search {
+  display: flex;
+  justify-content: flex-start;
+}
+.search {
+  height: 174.5rem;
+  width: 104.38rem;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 6.44rem;
+}
+.icon {
+  width: 106.13rem;
+  height: 179.44rem;
+  flex-direction: row;
+  align-items: flex-start;
+  padding: 0 0 0 1.75rem;
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-61xl);
+  color: var(--color-lavender);
+  font-family: var(--font-inter);
+}
+.frame-child {
+  width: 100%;
+  position: absolute;
+  margin: 0 !important;
+  height: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+}
+.copyright-2021 {
+  width: 34.69rem;
+  position: relative;
+  display: inline-block;
+  z-index: 1;
+}
+.frame-parent,
+.main2 {
+  position: relative;
+  display: flex;
+  justify-content: flex-start;
+}
+.frame-parent {
+  width: 120rem;
+  height: 26.75rem;
+  flex-direction: row;
+  align-items: flex-end;
+  padding: 22.5rem 39.13rem var(--padding-25xl);
+  box-sizing: border-box;
+  text-align: left;
+  font-size: var(--font-size-xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
+.main2 {
+  width: 100%;
+  height: 313.81rem;
+  background-color: #08090d;
+  overflow: hidden;
+  flex-direction: column;
+  align-items: center;
+}
